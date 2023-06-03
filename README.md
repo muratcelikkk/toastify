@@ -1,3 +1,4 @@
+![chrome-capture-2023-5-3 (5)](https://github.com/muratcelikkk/toastify/assets/113663079/b9c1bca2-56de-4104-a36d-e841ab1426c4)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
